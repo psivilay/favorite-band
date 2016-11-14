@@ -1,0 +1,19 @@
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: pink;
+  font-size: 30px;
+}
+
+.column {
+  width: 275px;
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
