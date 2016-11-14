@@ -7,6 +7,9 @@ img {
   float: left;
   background-color: pink;
   font-size: 30px;
+  border: 1px solid red;
+  margin: 12px;
+
 }
 
 .column {
@@ -16,4 +19,10 @@ img {
 
 .center {
   text-align: center;
+}
+
+.my-class {
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
 }
